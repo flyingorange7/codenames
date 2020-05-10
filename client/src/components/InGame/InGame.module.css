@@ -1,0 +1,29 @@
+.WelcomeText {
+  color: ivory;
+}
+.WordCount {
+  color: rgb(255, 72, 0);
+  float: left;
+}
+
+.Blue {
+  color: rgb(0, 102, 255);
+}
+
+.FloatButtonRight {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.BlueTeam {
+  color: rgb(0, 102, 255);
+  float: left;
+}
+
+.RedTeam {
+  color: rgb(255, 72, 0);
+}
+
+.GameOver {
+  color: whitesmoke;
+}
